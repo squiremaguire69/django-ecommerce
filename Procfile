@@ -1,1 +1,1 @@
-web: gunicorn pm-ecommerce-app.wsgi:application
+web: gunicorn ecommerce.wsgi:application
