@@ -1,0 +1,1 @@
+web: gunicorn pm-ecommerce-app.wsgi:application
